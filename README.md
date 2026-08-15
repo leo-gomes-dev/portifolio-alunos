@@ -16,7 +16,7 @@ O primeiro passo é gerar uma cópia deste projeto na sua própria conta do GitH
 ### 2. Clone o SEU Repositório
 Abra o terminal do seu computador e clone o repositório que agora está no seu perfil:
 ```bash
-git clone https://github.com
+git clone [https://github.com](https://github.com/leo-gomes-dev/portifolio-alunos.git)
 ```
 *(Lembre-se de trocar `SEU-USUARIO` pelo seu nome de usuário do GitHub).*
 
